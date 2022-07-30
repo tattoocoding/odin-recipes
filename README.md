@@ -1,1 +1,2 @@
 # odin-recipes
+This project involves creating a basic website to showcase some recipes using basic HTML skills - it will demonstrate the use of creating links, using various type tools and lists, and the use of images. 
